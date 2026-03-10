@@ -1,0 +1,3 @@
+display_name: Travel Council Presentation
+short_description: Crea presentazioni PowerPoint da cartelle viaggio con foto, video e Testo.txt
+default_prompt: Genera una presentazione PowerPoint a partire dalla cartella del viaggio corrente, usando Testo.txt per le slide sezione, ordinando foto e video cronologicamente e configurando i video con autoplay fullscreen dopo 3 secondi.
